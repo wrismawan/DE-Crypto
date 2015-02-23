@@ -1,0 +1,71 @@
+========================================================
+               PERCOBAAN KE-  1
+========================================================
+Jumlah Pop =  94
+99  >>>  [6, 4, 2, 3, 1, 0, 5]  | fitness :  0.942087145163
+kunci :  [6, 4, 2, 3, 1, 0, 5]  | kunci fitness :  0.942087145163
+DECRYPTED TEXT :  BritishintelligenceagencyGCHQhastodaylaunchedanappcalledCryptoythatisaimedatteachingsecondaryschoolagechildrenandtheirteachersaboutcryptographyWhileitsavailablefreelyforanyonewithanAndroidtablettodownloadnoAndroidphonesoriOSdevicessupportedatthemomentbutthatsscheduledfornextyearCryptoyisreallyaimedatKeyStagestudentsintheUKGrowingfromaprojectdesignedforCheltenhamScienceFestivaltheappletsuserslearnaboutbasicencryptiontechniquesandtheirhistoryaswellaslettingyouhaveacrackatcreatingyourownencodedmessagesGCHQappBritishspyagencyGCHQlaunchescryptographyappforstudentsNaturallytheideaisthatthesemessagesarethensharedviatheusualchannelsandrecipientscanusetheapptotryanddecipherthehiddenmessageRegardlessofwhetherornotthestudentspickupaspecificinterestincryptographyisntreallythepointhereitspartofadrivetopromoteScienceTechnologyEngineeringandMathsSTEMtostudentsOfcourseiftheUKbecomeseventheslightestbitmoreawareofcrypotographictechniquesandcybersecurityskillsthenthatsnobadthingeitherphqghum
+========================================================
+               PERCOBAAN KE-  2
+========================================================
+Jumlah Pop =  98
+99  >>>  [6, 4, 2, 3, 1, 0, 5]  | fitness :  0.942087145163
+kunci :  [6, 4, 2, 3, 1, 0, 5]  | kunci fitness :  0.942087145163
+DECRYPTED TEXT :  BritishintelligenceagencyGCHQhastodaylaunchedanappcalledCryptoythatisaimedatteachingsecondaryschoolagechildrenandtheirteachersaboutcryptographyWhileitsavailablefreelyforanyonewithanAndroidtablettodownloadnoAndroidphonesoriOSdevicessupportedatthemomentbutthatsscheduledfornextyearCryptoyisreallyaimedatKeyStagestudentsintheUKGrowingfromaprojectdesignedforCheltenhamScienceFestivaltheappletsuserslearnaboutbasicencryptiontechniquesandtheirhistoryaswellaslettingyouhaveacrackatcreatingyourownencodedmessagesGCHQappBritishspyagencyGCHQlaunchescryptographyappforstudentsNaturallytheideaisthatthesemessagesarethensharedviatheusualchannelsandrecipientscanusetheapptotryanddecipherthehiddenmessageRegardlessofwhetherornotthestudentspickupaspecificinterestincryptographyisntreallythepointhereitspartofadrivetopromoteScienceTechnologyEngineeringandMathsSTEMtostudentsOfcourseiftheUKbecomeseventheslightestbitmoreawareofcrypotographictechniquesandcybersecurityskillsthenthatsnobadthingeitherphqghum
+========================================================
+               PERCOBAAN KE-  3
+========================================================
+Jumlah Pop =  100
+99  >>>  [6, 4, 2, 3, 1, 0, 5]  | fitness :  0.942087145163
+kunci :  [6, 4, 2, 3, 1, 0, 5]  | kunci fitness :  0.942087145163
+DECRYPTED TEXT :  BritishintelligenceagencyGCHQhastodaylaunchedanappcalledCryptoythatisaimedatteachingsecondaryschoolagechildrenandtheirteachersaboutcryptographyWhileitsavailablefreelyforanyonewithanAndroidtablettodownloadnoAndroidphonesoriOSdevicessupportedatthemomentbutthatsscheduledfornextyearCryptoyisreallyaimedatKeyStagestudentsintheUKGrowingfromaprojectdesignedforCheltenhamScienceFestivaltheappletsuserslearnaboutbasicencryptiontechniquesandtheirhistoryaswellaslettingyouhaveacrackatcreatingyourownencodedmessagesGCHQappBritishspyagencyGCHQlaunchescryptographyappforstudentsNaturallytheideaisthatthesemessagesarethensharedviatheusualchannelsandrecipientscanusetheapptotryanddecipherthehiddenmessageRegardlessofwhetherornotthestudentspickupaspecificinterestincryptographyisntreallythepointhereitspartofadrivetopromoteScienceTechnologyEngineeringandMathsSTEMtostudentsOfcourseiftheUKbecomeseventheslightestbitmoreawareofcrypotographictechniquesandcybersecurityskillsthenthatsnobadthingeitherphqghum
+========================================================
+               PERCOBAAN KE-  4
+========================================================
+Jumlah Pop =  97
+99  >>>  [6, 4, 2, 3, 1, 0, 5]  | fitness :  0.942087145163
+kunci :  [6, 4, 2, 3, 1, 0, 5]  | kunci fitness :  0.942087145163
+DECRYPTED TEXT :  BritishintelligenceagencyGCHQhastodaylaunchedanappcalledCryptoythatisaimedatteachingsecondaryschoolagechildrenandtheirteachersaboutcryptographyWhileitsavailablefreelyforanyonewithanAndroidtablettodownloadnoAndroidphonesoriOSdevicessupportedatthemomentbutthatsscheduledfornextyearCryptoyisreallyaimedatKeyStagestudentsintheUKGrowingfromaprojectdesignedforCheltenhamScienceFestivaltheappletsuserslearnaboutbasicencryptiontechniquesandtheirhistoryaswellaslettingyouhaveacrackatcreatingyourownencodedmessagesGCHQappBritishspyagencyGCHQlaunchescryptographyappforstudentsNaturallytheideaisthatthesemessagesarethensharedviatheusualchannelsandrecipientscanusetheapptotryanddecipherthehiddenmessageRegardlessofwhetherornotthestudentspickupaspecificinterestincryptographyisntreallythepointhereitspartofadrivetopromoteScienceTechnologyEngineeringandMathsSTEMtostudentsOfcourseiftheUKbecomeseventheslightestbitmoreawareofcrypotographictechniquesandcybersecurityskillsthenthatsnobadthingeitherphqghum
+========================================================
+               PERCOBAAN KE-  5
+========================================================
+Jumlah Pop =  101
+99  >>>  [6, 4, 2, 3, 1, 0, 5]  | fitness :  0.942087145163
+kunci :  [6, 4, 2, 3, 1, 0, 5]  | kunci fitness :  0.942087145163
+DECRYPTED TEXT :  BritishintelligenceagencyGCHQhastodaylaunchedanappcalledCryptoythatisaimedatteachingsecondaryschoolagechildrenandtheirteachersaboutcryptographyWhileitsavailablefreelyforanyonewithanAndroidtablettodownloadnoAndroidphonesoriOSdevicessupportedatthemomentbutthatsscheduledfornextyearCryptoyisreallyaimedatKeyStagestudentsintheUKGrowingfromaprojectdesignedforCheltenhamScienceFestivaltheappletsuserslearnaboutbasicencryptiontechniquesandtheirhistoryaswellaslettingyouhaveacrackatcreatingyourownencodedmessagesGCHQappBritishspyagencyGCHQlaunchescryptographyappforstudentsNaturallytheideaisthatthesemessagesarethensharedviatheusualchannelsandrecipientscanusetheapptotryanddecipherthehiddenmessageRegardlessofwhetherornotthestudentspickupaspecificinterestincryptographyisntreallythepointhereitspartofadrivetopromoteScienceTechnologyEngineeringandMathsSTEMtostudentsOfcourseiftheUKbecomeseventheslightestbitmoreawareofcrypotographictechniquesandcybersecurityskillsthenthatsnobadthingeitherphqghum
+========================================================
+               PERCOBAAN KE-  6
+========================================================
+Jumlah Pop =  79
+99  >>>  [6, 4, 2, 3, 1, 0, 5]  | fitness :  0.942087145163
+kunci :  [6, 4, 2, 3, 1, 0, 5]  | kunci fitness :  0.942087145163
+DECRYPTED TEXT :  BritishintelligenceagencyGCHQhastodaylaunchedanappcalledCryptoythatisaimedatteachingsecondaryschoolagechildrenandtheirteachersaboutcryptographyWhileitsavailablefreelyforanyonewithanAndroidtablettodownloadnoAndroidphonesoriOSdevicessupportedatthemomentbutthatsscheduledfornextyearCryptoyisreallyaimedatKeyStagestudentsintheUKGrowingfromaprojectdesignedforCheltenhamScienceFestivaltheappletsuserslearnaboutbasicencryptiontechniquesandtheirhistoryaswellaslettingyouhaveacrackatcreatingyourownencodedmessagesGCHQappBritishspyagencyGCHQlaunchescryptographyappforstudentsNaturallytheideaisthatthesemessagesarethensharedviatheusualchannelsandrecipientscanusetheapptotryanddecipherthehiddenmessageRegardlessofwhetherornotthestudentspickupaspecificinterestincryptographyisntreallythepointhereitspartofadrivetopromoteScienceTechnologyEngineeringandMathsSTEMtostudentsOfcourseiftheUKbecomeseventheslightestbitmoreawareofcrypotographictechniquesandcybersecurityskillsthenthatsnobadthingeitherphqghum
+========================================================
+               PERCOBAAN KE-  7
+========================================================
+Jumlah Pop =  97
+99  >>>  [6, 4, 2, 3, 1, 0, 5]  | fitness :  0.942087145163
+kunci :  [6, 4, 2, 3, 1, 0, 5]  | kunci fitness :  0.942087145163
+DECRYPTED TEXT :  BritishintelligenceagencyGCHQhastodaylaunchedanappcalledCryptoythatisaimedatteachingsecondaryschoolagechildrenandtheirteachersaboutcryptographyWhileitsavailablefreelyforanyonewithanAndroidtablettodownloadnoAndroidphonesoriOSdevicessupportedatthemomentbutthatsscheduledfornextyearCryptoyisreallyaimedatKeyStagestudentsintheUKGrowingfromaprojectdesignedforCheltenhamScienceFestivaltheappletsuserslearnaboutbasicencryptiontechniquesandtheirhistoryaswellaslettingyouhaveacrackatcreatingyourownencodedmessagesGCHQappBritishspyagencyGCHQlaunchescryptographyappforstudentsNaturallytheideaisthatthesemessagesarethensharedviatheusualchannelsandrecipientscanusetheapptotryanddecipherthehiddenmessageRegardlessofwhetherornotthestudentspickupaspecificinterestincryptographyisntreallythepointhereitspartofadrivetopromoteScienceTechnologyEngineeringandMathsSTEMtostudentsOfcourseiftheUKbecomeseventheslightestbitmoreawareofcrypotographictechniquesandcybersecurityskillsthenthatsnobadthingeitherphqghum
+========================================================
+               PERCOBAAN KE-  8
+========================================================
+Jumlah Pop =  102
+99  >>>  [6, 4, 2, 3, 1, 0, 5]  | fitness :  0.942087145163
+kunci :  [6, 4, 2, 3, 1, 0, 5]  | kunci fitness :  0.942087145163
+DECRYPTED TEXT :  BritishintelligenceagencyGCHQhastodaylaunchedanappcalledCryptoythatisaimedatteachingsecondaryschoolagechildrenandtheirteachersaboutcryptographyWhileitsavailablefreelyforanyonewithanAndroidtablettodownloadnoAndroidphonesoriOSdevicessupportedatthemomentbutthatsscheduledfornextyearCryptoyisreallyaimedatKeyStagestudentsintheUKGrowingfromaprojectdesignedforCheltenhamScienceFestivaltheappletsuserslearnaboutbasicencryptiontechniquesandtheirhistoryaswellaslettingyouhaveacrackatcreatingyourownencodedmessagesGCHQappBritishspyagencyGCHQlaunchescryptographyappforstudentsNaturallytheideaisthatthesemessagesarethensharedviatheusualchannelsandrecipientscanusetheapptotryanddecipherthehiddenmessageRegardlessofwhetherornotthestudentspickupaspecificinterestincryptographyisntreallythepointhereitspartofadrivetopromoteScienceTechnologyEngineeringandMathsSTEMtostudentsOfcourseiftheUKbecomeseventheslightestbitmoreawareofcrypotographictechniquesandcybersecurityskillsthenthatsnobadthingeitherphqghum
+========================================================
+               PERCOBAAN KE-  9
+========================================================
+Jumlah Pop =  96
+99  >>>  [6, 4, 2, 3, 1, 0, 5]  | fitness :  0.942087145163
+kunci :  [6, 4, 2, 3, 1, 0, 5]  | kunci fitness :  0.942087145163
+DECRYPTED TEXT :  BritishintelligenceagencyGCHQhastodaylaunchedanappcalledCryptoythatisaimedatteachingsecondaryschoolagechildrenandtheirteachersaboutcryptographyWhileitsavailablefreelyforanyonewithanAndroidtablettodownloadnoAndroidphonesoriOSdevicessupportedatthemomentbutthatsscheduledfornextyearCryptoyisreallyaimedatKeyStagestudentsintheUKGrowingfromaprojectdesignedforCheltenhamScienceFestivaltheappletsuserslearnaboutbasicencryptiontechniquesandtheirhistoryaswellaslettingyouhaveacrackatcreatingyourownencodedmessagesGCHQappBritishspyagencyGCHQlaunchescryptographyappforstudentsNaturallytheideaisthatthesemessagesarethensharedviatheusualchannelsandrecipientscanusetheapptotryanddecipherthehiddenmessageRegardlessofwhetherornotthestudentspickupaspecificinterestincryptographyisntreallythepointhereitspartofadrivetopromoteScienceTechnologyEngineeringandMathsSTEMtostudentsOfcourseiftheUKbecomeseventheslightestbitmoreawareofcrypotographictechniquesandcybersecurityskillsthenthatsnobadthingeitherphqghum
+========================================================
+               PERCOBAAN KE-  10
+========================================================
+Jumlah Pop =  99
+99  >>>  [6, 4, 2, 3, 1, 0, 5]  | fitness :  0.942087145163
+kunci :  [6, 4, 2, 3, 1, 0, 5]  | kunci fitness :  0.942087145163
+DECRYPTED TEXT :  BritishintelligenceagencyGCHQhastodaylaunchedanappcalledCryptoythatisaimedatteachingsecondaryschoolagechildrenandtheirteachersaboutcryptographyWhileitsavailablefreelyforanyonewithanAndroidtablettodownloadnoAndroidphonesoriOSdevicessupportedatthemomentbutthatsscheduledfornextyearCryptoyisreallyaimedatKeyStagestudentsintheUKGrowingfromaprojectdesignedforCheltenhamScienceFestivaltheappletsuserslearnaboutbasicencryptiontechniquesandtheirhistoryaswellaslettingyouhaveacrackatcreatingyourownencodedmessagesGCHQappBritishspyagencyGCHQlaunchescryptographyappforstudentsNaturallytheideaisthatthesemessagesarethensharedviatheusualchannelsandrecipientscanusetheapptotryanddecipherthehiddenmessageRegardlessofwhetherornotthestudentspickupaspecificinterestincryptographyisntreallythepointhereitspartofadrivetopromoteScienceTechnologyEngineeringandMathsSTEMtostudentsOfcourseiftheUKbecomeseventheslightestbitmoreawareofcrypotographictechniquesandcybersecurityskillsthenthatsnobadthingeitherphqghum
+[Finished in 630.4s]

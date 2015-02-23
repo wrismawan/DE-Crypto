@@ -1,0 +1,71 @@
+========================================================
+               PERCOBAAN KE-  1
+========================================================
+Jumlah Pop =  107
+99  >>>  [0, 2, 1, 4, 5, 6, 7, 8, 3]  | fitness :  0.951263464037
+kunci :  [8, 6, 7, 4, 3, 2, 1, 0, 5]  | kunci fitness :  0.966337304316
+DECRYPTED TEXT :  omoHylluFnEcihpromFnoitpyrcneebsahEHtderrefergylohasaoyrcfoliaryhpargotptneGgiarCtnecersyrtnoituloslborpehtoonelihwmeneiciffetothguonetcitcarpebsnocsawlabotderedirbrojamaeguorhtkaeehtecniShgorphcumnebsahssertniedamneitceridehidniffonoeiciffegnoHylluFtncihpromomoitpyrcnEIsemehcsnepapsihtniglliwewrifeirbaevitcudortnofEHFotnotamehtamrweWsnaicioseviglliihehtfoemmdnayrotssaedirojaerplliweweemostnesfoselpmaxemehcsEHFliwewdnasanoitnemlfoyteiravaytirucesnoitpmussFhcihwnossemehcsEHbneebevahniehTdesaduadednetamsiecneiicitamehtgehttasnaeletaudaroyebrolevaicepsednrebmunyllstsiroehtntonodohwlirassecebynaevahydnuorgkcagotpyrcnipehTyhparsomsirepaevrusayltighguohtypbmunasev
+========================================================
+               PERCOBAAN KE-  2
+========================================================
+Jumlah Pop =  129
+99  >>>  [0, 2, 1, 4, 5, 6, 7, 8, 3]  | fitness :  0.951263464037
+kunci :  [8, 6, 7, 4, 3, 2, 1, 0, 5]  | kunci fitness :  0.966337304316
+DECRYPTED TEXT :  omoHylluFnEcihpromFnoitpyrcneebsahEHtderrefergylohasaoyrcfoliaryhpargotptneGgiarCtnecersyrtnoituloslborpehtoonelihwmeneiciffetothguonetcitcarpebsnocsawlabotderedirbrojamaeguorhtkaeehtecniShgorphcumnebsahssertniedamneitceridehidniffonoeiciffegnoHylluFtncihpromomoitpyrcnEIsemehcsnepapsihtniglliwewrifeirbaevitcudortnofEHFotnotamehtamrweWsnaicioseviglliihehtfoemmdnayrotssaedirojaerplliweweemostnesfoselpmaxemehcsEHFliwewdnasanoitnemlfoyteiravaytirucesnoitpmussFhcihwnossemehcsEHbneebevahniehTdesaduadednetamsiecneiicitamehtgehttasnaeletaudaroyebrolevaicepsednrebmunyllstsiroehtntonodohwlirassecebynaevahydnuorgkcagotpyrcnipehTyhparsomsirepaevrusayltighguohtypbmunasev
+========================================================
+               PERCOBAAN KE-  3
+========================================================
+Jumlah Pop =  124
+99  >>>  [0, 2, 1, 4, 5, 6, 7, 8, 3]  | fitness :  0.951263464037
+kunci :  [8, 6, 7, 4, 3, 2, 1, 0, 5]  | kunci fitness :  0.966337304316
+DECRYPTED TEXT :  omoHylluFnEcihpromFnoitpyrcneebsahEHtderrefergylohasaoyrcfoliaryhpargotptneGgiarCtnecersyrtnoituloslborpehtoonelihwmeneiciffetothguonetcitcarpebsnocsawlabotderedirbrojamaeguorhtkaeehtecniShgorphcumnebsahssertniedamneitceridehidniffonoeiciffegnoHylluFtncihpromomoitpyrcnEIsemehcsnepapsihtniglliwewrifeirbaevitcudortnofEHFotnotamehtamrweWsnaicioseviglliihehtfoemmdnayrotssaedirojaerplliweweemostnesfoselpmaxemehcsEHFliwewdnasanoitnemlfoyteiravaytirucesnoitpmussFhcihwnossemehcsEHbneebevahniehTdesaduadednetamsiecneiicitamehtgehttasnaeletaudaroyebrolevaicepsednrebmunyllstsiroehtntonodohwlirassecebynaevahydnuorgkcagotpyrcnipehTyhparsomsirepaevrusayltighguohtypbmunasev
+========================================================
+               PERCOBAAN KE-  4
+========================================================
+Jumlah Pop =  107
+99  >>>  [0, 2, 1, 4, 5, 6, 7, 8, 3]  | fitness :  0.951263464037
+kunci :  [8, 6, 7, 4, 3, 2, 1, 0, 5]  | kunci fitness :  0.966337304316
+DECRYPTED TEXT :  omoHylluFnEcihpromFnoitpyrcneebsahEHtderrefergylohasaoyrcfoliaryhpargotptneGgiarCtnecersyrtnoituloslborpehtoonelihwmeneiciffetothguonetcitcarpebsnocsawlabotderedirbrojamaeguorhtkaeehtecniShgorphcumnebsahssertniedamneitceridehidniffonoeiciffegnoHylluFtncihpromomoitpyrcnEIsemehcsnepapsihtniglliwewrifeirbaevitcudortnofEHFotnotamehtamrweWsnaicioseviglliihehtfoemmdnayrotssaedirojaerplliweweemostnesfoselpmaxemehcsEHFliwewdnasanoitnemlfoyteiravaytirucesnoitpmussFhcihwnossemehcsEHbneebevahniehTdesaduadednetamsiecneiicitamehtgehttasnaeletaudaroyebrolevaicepsednrebmunyllstsiroehtntonodohwlirassecebynaevahydnuorgkcagotpyrcnipehTyhparsomsirepaevrusayltighguohtypbmunasev
+========================================================
+               PERCOBAAN KE-  5
+========================================================
+Jumlah Pop =  102
+99  >>>  [0, 2, 1, 4, 5, 6, 7, 8, 3]  | fitness :  0.951263464037
+kunci :  [8, 6, 7, 4, 3, 2, 1, 0, 5]  | kunci fitness :  0.966337304316
+DECRYPTED TEXT :  omoHylluFnEcihpromFnoitpyrcneebsahEHtderrefergylohasaoyrcfoliaryhpargotptneGgiarCtnecersyrtnoituloslborpehtoonelihwmeneiciffetothguonetcitcarpebsnocsawlabotderedirbrojamaeguorhtkaeehtecniShgorphcumnebsahssertniedamneitceridehidniffonoeiciffegnoHylluFtncihpromomoitpyrcnEIsemehcsnepapsihtniglliwewrifeirbaevitcudortnofEHFotnotamehtamrweWsnaicioseviglliihehtfoemmdnayrotssaedirojaerplliweweemostnesfoselpmaxemehcsEHFliwewdnasanoitnemlfoyteiravaytirucesnoitpmussFhcihwnossemehcsEHbneebevahniehTdesaduadednetamsiecneiicitamehtgehttasnaeletaudaroyebrolevaicepsednrebmunyllstsiroehtntonodohwlirassecebynaevahydnuorgkcagotpyrcnipehTyhparsomsirepaevrusayltighguohtypbmunasev
+========================================================
+               PERCOBAAN KE-  6
+========================================================
+Jumlah Pop =  107
+99  >>>  [0, 2, 1, 4, 5, 6, 7, 8, 3]  | fitness :  0.951263464037
+kunci :  [8, 6, 7, 4, 3, 2, 1, 0, 5]  | kunci fitness :  0.966337304316
+DECRYPTED TEXT :  omoHylluFnEcihpromFnoitpyrcneebsahEHtderrefergylohasaoyrcfoliaryhpargotptneGgiarCtnecersyrtnoituloslborpehtoonelihwmeneiciffetothguonetcitcarpebsnocsawlabotderedirbrojamaeguorhtkaeehtecniShgorphcumnebsahssertniedamneitceridehidniffonoeiciffegnoHylluFtncihpromomoitpyrcnEIsemehcsnepapsihtniglliwewrifeirbaevitcudortnofEHFotnotamehtamrweWsnaicioseviglliihehtfoemmdnayrotssaedirojaerplliweweemostnesfoselpmaxemehcsEHFliwewdnasanoitnemlfoyteiravaytirucesnoitpmussFhcihwnossemehcsEHbneebevahniehTdesaduadednetamsiecneiicitamehtgehttasnaeletaudaroyebrolevaicepsednrebmunyllstsiroehtntonodohwlirassecebynaevahydnuorgkcagotpyrcnipehTyhparsomsirepaevrusayltighguohtypbmunasev
+========================================================
+               PERCOBAAN KE-  7
+========================================================
+Jumlah Pop =  126
+99  >>>  [0, 2, 1, 4, 5, 6, 7, 8, 3]  | fitness :  0.951263464037
+kunci :  [8, 6, 7, 4, 3, 2, 1, 0, 5]  | kunci fitness :  0.966337304316
+DECRYPTED TEXT :  omoHylluFnEcihpromFnoitpyrcneebsahEHtderrefergylohasaoyrcfoliaryhpargotptneGgiarCtnecersyrtnoituloslborpehtoonelihwmeneiciffetothguonetcitcarpebsnocsawlabotderedirbrojamaeguorhtkaeehtecniShgorphcumnebsahssertniedamneitceridehidniffonoeiciffegnoHylluFtncihpromomoitpyrcnEIsemehcsnepapsihtniglliwewrifeirbaevitcudortnofEHFotnotamehtamrweWsnaicioseviglliihehtfoemmdnayrotssaedirojaerplliweweemostnesfoselpmaxemehcsEHFliwewdnasanoitnemlfoyteiravaytirucesnoitpmussFhcihwnossemehcsEHbneebevahniehTdesaduadednetamsiecneiicitamehtgehttasnaeletaudaroyebrolevaicepsednrebmunyllstsiroehtntonodohwlirassecebynaevahydnuorgkcagotpyrcnipehTyhparsomsirepaevrusayltighguohtypbmunasev
+========================================================
+               PERCOBAAN KE-  8
+========================================================
+Jumlah Pop =  131
+99  >>>  [0, 2, 1, 4, 5, 6, 7, 8, 3]  | fitness :  0.951263464037
+kunci :  [8, 6, 7, 4, 3, 2, 1, 0, 5]  | kunci fitness :  0.966337304316
+DECRYPTED TEXT :  omoHylluFnEcihpromFnoitpyrcneebsahEHtderrefergylohasaoyrcfoliaryhpargotptneGgiarCtnecersyrtnoituloslborpehtoonelihwmeneiciffetothguonetcitcarpebsnocsawlabotderedirbrojamaeguorhtkaeehtecniShgorphcumnebsahssertniedamneitceridehidniffonoeiciffegnoHylluFtncihpromomoitpyrcnEIsemehcsnepapsihtniglliwewrifeirbaevitcudortnofEHFotnotamehtamrweWsnaicioseviglliihehtfoemmdnayrotssaedirojaerplliweweemostnesfoselpmaxemehcsEHFliwewdnasanoitnemlfoyteiravaytirucesnoitpmussFhcihwnossemehcsEHbneebevahniehTdesaduadednetamsiecneiicitamehtgehttasnaeletaudaroyebrolevaicepsednrebmunyllstsiroehtntonodohwlirassecebynaevahydnuorgkcagotpyrcnipehTyhparsomsirepaevrusayltighguohtypbmunasev
+========================================================
+               PERCOBAAN KE-  9
+========================================================
+Jumlah Pop =  131
+99  >>>  [0, 2, 1, 4, 5, 6, 7, 8, 3]  | fitness :  0.951263464037
+kunci :  [8, 6, 7, 4, 3, 2, 1, 0, 5]  | kunci fitness :  0.966337304316
+DECRYPTED TEXT :  omoHylluFnEcihpromFnoitpyrcneebsahEHtderrefergylohasaoyrcfoliaryhpargotptneGgiarCtnecersyrtnoituloslborpehtoonelihwmeneiciffetothguonetcitcarpebsnocsawlabotderedirbrojamaeguorhtkaeehtecniShgorphcumnebsahssertniedamneitceridehidniffonoeiciffegnoHylluFtncihpromomoitpyrcnEIsemehcsnepapsihtniglliwewrifeirbaevitcudortnofEHFotnotamehtamrweWsnaicioseviglliihehtfoemmdnayrotssaedirojaerplliweweemostnesfoselpmaxemehcsEHFliwewdnasanoitnemlfoyteiravaytirucesnoitpmussFhcihwnossemehcsEHbneebevahniehTdesaduadednetamsiecneiicitamehtgehttasnaeletaudaroyebrolevaicepsednrebmunyllstsiroehtntonodohwlirassecebynaevahydnuorgkcagotpyrcnipehTyhparsomsirepaevrusayltighguohtypbmunasev
+========================================================
+               PERCOBAAN KE-  10
+========================================================
+Jumlah Pop =  93
+99  >>>  [0, 2, 1, 4, 5, 6, 7, 8, 3]  | fitness :  0.951263464037
+kunci :  [8, 6, 7, 4, 3, 2, 1, 0, 5]  | kunci fitness :  0.966337304316
+DECRYPTED TEXT :  omoHylluF nEcihpromFnoitpyrcneebsahEHtderrefergylohasaoyrcfoliaryhpargotptneGgiarCtnecersyrtnoituloslborpehtoonelihwmeneiciffetothguonetcitcarpebsnocsawlabotderedirbrojamaeguorhtkaeehtecniShgorphcumnebsahssertniedamneitceridehidniffonoeiciffegnoHylluFtncihpromomoitpyrcnEIsemehcsnepapsihtniglliwewrifeirbaevitcudortnofEHFotnotamehtamrweWsnaicioseviglliihehtfoemmdnayrotssaedirojaerplliweweemostnesfoselpmaxemehcsEHFliwewdnasanoitnemlfoyteiravaytirucesnoitpmussFhcihwnossemehcsEHbneebevahniehTdesaduadednetamsiecneiicitamehtgehttasnaeletaudaroyebrolevaicepsednrebmunyllstsiroehtntonodohwlirassecebynaevahydnuorgkcagotpyrcnipehTyhparsomsirepaevrusayltighguohtypbmunasev
+[Finished in 725.2s]

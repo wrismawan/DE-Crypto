@@ -67,7 +67,7 @@ int main() {
     file_output<<"PANJANG KUNCI : "<<D<<endl;
     file_output<<"KUNCI : ";
     for(int i=0;i<D;i++)
-        cout<<key[i]<<" ";
+        file_output<<key[i]<<" ";
     file_output<<endl;
     file_output<<"CIPHERTEXT : "<<endl;
     for (int i=0; i<C; i++){

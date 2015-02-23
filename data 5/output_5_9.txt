@@ -1,0 +1,71 @@
+========================================================
+               PERCOBAAN KE-  1
+========================================================
+Jumlah Pop =  133
+99  >>>  [6, 8, 7, 4, 5, 2, 3, 1, 0]  | fitness :  0.921774174774
+kunci :  [6, 8, 7, 4, 5, 2, 3, 1, 0]  | kunci fitness :  0.921774174774
+DECRYPTED TEXT :  AppleisofferinganewrepairprogramthatextendscoverageforcertainMacBookPromodelsmadebetweenandthatareexhibitingproblemsrelatedtovideoTheprogramofferseitherfreerepairsonaffectedmodelsorreimbursementforrepairsalreadypaidforbyusersTheitsaneasywaytocheckifyourMacBookProisamongthosecoveredbytheextensionthankstoApplessupporttoolandtheserialnumberyoucanfindonyourmachinesAboutThisMacdialogboxunderthemenuinOSXModelsthatmaybeaffectedincludetheandinchMacBookProaswellastheinchMacBookProwithRetinadisplayprovidedtheyweremanufacturedduringthetotimespanSymptomsyourmachinemaybeexhibitingifitsaffectedincludevideodistortionlackofvideoorimagedespiteapoweredoncomputerorunexpectedsystemrestartsOnlyinthecaseofaMacactuallyshowingthesesymptomsshouldyoucontactAppletotakeadvantageoftherepairprogramsinceotherwiseyoumostlikelydonthaveaproblemphqghu
+========================================================
+               PERCOBAAN KE-  2
+========================================================
+Jumlah Pop =  114
+99  >>>  [2, 0, 1, 4, 3, 6, 5, 7, 8]  | fitness :  0.928175193237
+kunci :  [6, 8, 7, 4, 5, 2, 3, 1, 0]  | kunci fitness :  0.921774174774
+DECRYPTED TEXT :  fosielppA enagnirefrpriaperwtahtmargoocsdnetxerofegarevaMniatrecmorPkooBcedamsledonaneewtebeeratahtdgnitibihxrsmelborpvotdetalerpehToedieffomargofrehtiesrriapereertceffanososledomdesrubmierrrroftnemerlasriapefdiapydaesresuybroenastiehTcotyawysauoyfikcehPkooBcaMrgnomasiorevocesohteehtybdertnoisnetxpAotsknahoppusselpdnaloottrlairesehtuoyrebmunnodnifnacihcamruoyTtuobAsenaidcaMsihdnuxobgolunemehtreedoMXSOniyamtahtsletceffaebtedulcnidhcnidnaehrPkooBcaMsallewsaoaMhcniehtworPkooBcaniteRhtirpyalpsidehtdedivounamerewydderutcaftehtgnirunapsemitoysmotpmySnihcamruohxeebyamefignitibitceffastiedulcnidetsidoedivcalnoitroooedivfoksedegamirewopaetippmocnoderenuroretuysdetcepxatsermetsniylnOstrfoesacehtautcacaManiwohsyllmysesehtguohssmotptnocuoydltelppAtcaavdaekatohtfoegatnrpriaperecnismargosiwrehtoeltsomuoyetnodylekiborpaevahuhgqhpmel
+========================================================
+               PERCOBAAN KE-  3
+========================================================
+Jumlah Pop =  122
+99  >>>  [6, 8, 7, 4, 5, 2, 3, 1, 0]  | fitness :  0.921774174774
+kunci :  [6, 8, 7, 4, 5, 2, 3, 1, 0]  | kunci fitness :  0.921774174774
+DECRYPTED TEXT :  AppleisofferinganewrepairprogramthatextendscoverageforcertainMacBookPromodelsmadebetweenandthatareexhibitingproblemsrelatedtovideoTheprogramofferseitherfreerepairsonaffectedmodelsorreimbursementforrepairsalreadypaidforbyusersTheitsaneasywaytocheckifyourMacBookProisamongthosecoveredbytheextensionthankstoApplessupporttoolandtheserialnumberyoucanfindonyourmachinesAboutThisMacdialogboxunderthemenuinOSXModelsthatmaybeaffectedincludetheandinchMacBookProaswellastheinchMacBookProwithRetinadisplayprovidedtheyweremanufacturedduringthetotimespanSymptomsyourmachinemaybeexhibitingifitsaffectedincludevideodistortionlackofvideoorimagedespiteapoweredoncomputerorunexpectedsystemrestartsOnlyinthecaseofaMacactuallyshowingthesesymptomsshouldyoucontactAppletotakeadvantageoftherepairprogramsinceotherwiseyoumostlikelydonthaveaproblemphqghu
+========================================================
+               PERCOBAAN KE-  4
+========================================================
+Jumlah Pop =  109
+99  >>>  [2, 0, 1, 4, 3, 6, 5, 7, 8]  | fitness :  0.928175193237
+kunci :  [6, 8, 7, 4, 5, 2, 3, 1, 0]  | kunci fitness :  0.921774174774
+DECRYPTED TEXT :  fosielppAenagnirefrpriaperwtahtmargoocsdnetxerofegarevaMniatrecmorPkooBcedamsledonaneewtebeeratahtdgnitibihxrsmelborpvotdetalerpehToedieffomargofrehtiesrriapereertceffanososledomdesrubmierrrroftnemerlasriapefdiapydaesresuybroenastiehTcotyawysauoyfikcehPkooBcaMrgnomasiorevocesohteehtybdertnoisnetxpAotsknahoppusselpdnaloottrlairesehtuoyrebmunnodnifnacihcamruoyTtuobAsenaidcaMsihdnuxobgolunemehtreedoMXSOniyamtahtsletceffaebtedulcnidhcnidnaehrPkooBcaMsallewsaoaMhcniehtworPkooBcaniteRhtirpyalpsidehtdedivounamerewydderutcaftehtgnirunapsemitoysmotpmySnihcamruohxeebyamefignitibitceffastiedulcnidetsidoedivcalnoitroooedivfoksedegamirewopaetippmocnoderenuroretuysdetcepxatsermetsniylnOstrfoesacehtautcacaManiwohsyllmysesehtguohssmotptnocuoydltelppAtcaavdaekatohtfoegatnrpriaperecnismargosiwrehtoeltsomuoyetnodylekiborpaevahuhgqhpmel
+========================================================
+               PERCOBAAN KE-  5
+========================================================
+Jumlah Pop =  104
+99  >>>  [6, 8, 7, 4, 5, 2, 3, 1, 0]  | fitness :  0.921774174774
+kunci :  [6, 8, 7, 4, 5, 2, 3, 1, 0]  | kunci fitness :  0.921774174774
+DECRYPTED TEXT :  AppleisofferinganewrepairprogramthatextendscoverageforcertainMacBookPromodelsmadebetweenandthatareexhibitingproblemsrelatedtovideoTheprogramofferseitherfreerepairsonaffectedmodelsorreimbursementforrepairsalreadypaidforbyusersTheitsaneasywaytocheckifyourMacBookProisamongthosecoveredbytheextensionthankstoApplessupporttoolandtheserialnumberyoucanfindonyourmachinesAboutThisMacdialogboxunderthemenuinOSXModelsthatmaybeaffectedincludetheandinchMacBookProaswellastheinchMacBookProwithRetinadisplayprovidedtheyweremanufacturedduringthetotimespanSymptomsyourmachinemaybeexhibitingifitsaffectedincludevideodistortionlackofvideoorimagedespiteapoweredoncomputerorunexpectedsystemrestartsOnlyinthecaseofaMacactuallyshowingthesesymptomsshouldyoucontactAppletotakeadvantageoftherepairprogramsinceotherwiseyoumostlikelydonthaveaproblemphqghu
+========================================================
+               PERCOBAAN KE-  6
+========================================================
+Jumlah Pop =  105
+99  >>>  [6, 8, 7, 4, 5, 2, 3, 1, 0]  | fitness :  0.921774174774
+kunci :  [6, 8, 7, 4, 5, 2, 3, 1, 0]  | kunci fitness :  0.921774174774
+DECRYPTED TEXT :  AppleisofferinganewrepairprogramthatextendscoverageforcertainMacBookPromodelsmadebetweenandthatareexhibitingproblemsrelatedtovideoTheprogramofferseitherfreerepairsonaffectedmodelsorreimbursementforrepairsalreadypaidforbyusersTheitsaneasywaytocheckifyourMacBookProisamongthosecoveredbytheextensionthankstoApplessupporttoolandtheserialnumberyoucanfindonyourmachinesAboutThisMacdialogboxunderthemenuinOSXModelsthatmaybeaffectedincludetheandinchMacBookProaswellastheinchMacBookProwithRetinadisplayprovidedtheyweremanufacturedduringthetotimespanSymptomsyourmachinemaybeexhibitingifitsaffectedincludevideodistortionlackofvideoorimagedespiteapoweredoncomputerorunexpectedsystemrestartsOnlyinthecaseofaMacactuallyshowingthesesymptomsshouldyoucontactAppletotakeadvantageoftherepairprogramsinceotherwiseyoumostlikelydonthaveaproblemphqghu
+========================================================
+               PERCOBAAN KE-  7
+========================================================
+Jumlah Pop =  123
+99  >>>  [2, 0, 1, 4, 3, 6, 5, 7, 8]  | fitness :  0.928175193237
+kunci :  [6, 8, 7, 4, 5, 2, 3, 1, 0]  | kunci fitness :  0.921774174774
+DECRYPTED TEXT :  fosielppAenagnirefrpriaperwtahtmargoocsdnetxerofegarevaMniatrecmorPkooBcedamsledonaneewtebeeratahtdgnitibihxrsmelborpvotdetalerpehToedieffomargofrehtiesrriapereertceffanososledomdesrubmierrrroftnemerlasriapefdiapydaesresuybroenastiehTcotyawysauoyfikcehPkooBcaMrgnomasiorevocesohteehtybdertnoisnetxpAotsknahoppusselpdnaloottrlairesehtuoyrebmunnodnifnacihcamruoyTtuobAsenaidcaMsihdnuxobgolunemehtreedoMXSOniyamtahtsletceffaebtedulcnidhcnidnaehrPkooBcaMsallewsaoaMhcniehtworPkooBcaniteRhtirpyalpsidehtdedivounamerewydderutcaftehtgnirunapsemitoysmotpmySnihcamruohxeebyamefignitibitceffastiedulcnidetsidoedivcalnoitroooedivfoksedegamirewopaetippmocnoderenuroretuysdetcepxatsermetsniylnOstrfoesacehtautcacaManiwohsyllmysesehtguohssmotptnocuoydltelppAtcaavdaekatohtfoegatnrpriaperecnismargosiwrehtoeltsomuoyetnodylekiborpaevahuhgqhpmel
+========================================================
+               PERCOBAAN KE-  8
+========================================================
+Jumlah Pop =  111
+99  >>>  [6, 8, 7, 4, 5, 2, 3, 1, 0]  | fitness :  0.921774174774
+kunci :  [6, 8, 7, 4, 5, 2, 3, 1, 0]  | kunci fitness :  0.921774174774
+DECRYPTED TEXT :  AppleisofferinganewrepairprogramthatextendscoverageforcertainMacBookPromodelsmadebetweenandthatareexhibitingproblemsrelatedtovideoTheprogramofferseitherfreerepairsonaffectedmodelsorreimbursementforrepairsalreadypaidforbyusersTheitsaneasywaytocheckifyourMacBookProisamongthosecoveredbytheextensionthankstoApplessupporttoolandtheserialnumberyoucanfindonyourmachinesAboutThisMacdialogboxunderthemenuinOSXModelsthatmaybeaffectedincludetheandinchMacBookProaswellastheinchMacBookProwithRetinadisplayprovidedtheyweremanufacturedduringthetotimespanSymptomsyourmachinemaybeexhibitingifitsaffectedincludevideodistortionlackofvideoorimagedespiteapoweredoncomputerorunexpectedsystemrestartsOnlyinthecaseofaMacactuallyshowingthesesymptomsshouldyoucontactAppletotakeadvantageoftherepairprogramsinceotherwiseyoumostlikelydonthaveaproblemphqghu
+========================================================
+               PERCOBAAN KE-  9
+========================================================
+Jumlah Pop =  119
+99  >>>  [8, 6, 7, 1, 0, 3, 2, 4, 5]  | fitness :  1.02277382986
+kunci :  [6, 8, 7, 4, 5, 2, 3, 1, 0]  | kunci fitness :  0.921774174774
+DECRYPTED TEXT :  ielppAfos gnirefenaiaperwrprtmargotahdnetxeocsegarevrofiatrecaMnPkooBcmormsledoedaeewtebnanatahtdeertibihxgnielborprsmdetalevothToedirpeomargoeffhtiesrfrepereerriaffanostceedomdeoslbmierrsruftnemerrosriaperlaapydaefdisuybrosrestiehTenayawysacotfikcehuoyoBcaMrPkomasiorgnocesohtevotybdereehisnetxtnotsknahpAousselpopploottrdnaresehtlairebmunuoynifnacnodamruoyihcobAsenTtucaMsihaidxobgoldnumehtreuneMXSOniedotahtslyameffaebetculcnidtedidnaehhcnooBcaMrPklewsaosalcniehtaMhPkooBcworteRhtianialpsidrpydedivoehtmerewyunarutcafddetgnirutehsemitonapotpmySysmcamruonihebyamehxenitibifigffastitcelcnideedudoedivtsinoitrocaldivfokooeegamirsedpaetipewocnoderpmororetuenuetcepxysdermetsatslnOstrniysacehtfoecacaMaautohsyllniwesehtgmysssmotpuohcuoydltnoppAtcatelaekatoavdoegatnhtfiapererprsmargocnirehtoesiwomuoyeltsdylekitnopaevahborqhpmeluhg
+========================================================
+               PERCOBAAN KE-  10
+========================================================
+Jumlah Pop =  97
+99  >>>  [6, 8, 7, 4, 5, 2, 3, 1, 0]  | fitness :  0.921774174774
+kunci :  [6, 8, 7, 4, 5, 2, 3, 1, 0]  | kunci fitness :  0.921774174774
+DECRYPTED TEXT :  AppleisofferinganewrepairprogramthatextendscoverageforcertainMacBookPromodelsmadebetweenandthatareexhibitingproblemsrelatedtovideoTheprogramofferseitherfreerepairsonaffectedmodelsorreimbursementforrepairsalreadypaidforbyusersTheitsaneasywaytocheckifyourMacBookProisamongthosecoveredbytheextensionthankstoApplessupporttoolandtheserialnumberyoucanfindonyourmachinesAboutThisMacdialogboxunderthemenuinOSXModelsthatmaybeaffectedincludetheandinchMacBookProaswellastheinchMacBookProwithRetinadisplayprovidedtheyweremanufacturedduringthetotimespanSymptomsyourmachinemaybeexhibitingifitsaffectedincludevideodistortionlackofvideoorimagedespiteapoweredoncomputerorunexpectedsystemrestartsOnlyinthecaseofaMacactuallyshowingthesesymptomsshouldyoucontactAppletotakeadvantageoftherepairprogramsinceotherwiseyoumostlikelydonthaveaproblemphqghu
+[Finished in 697.5s]

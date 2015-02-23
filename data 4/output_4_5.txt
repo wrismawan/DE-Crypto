@@ -1,0 +1,71 @@
+========================================================
+               PERCOBAAN KE-  1
+========================================================
+Jumlah Pop =  72
+99  >>>  [2, 1, 3, 0, 4]  | fitness :  0.967818442367
+kunci :  [2, 1, 3, 0, 4]  | kunci fitness :  0.967818442367
+DECRYPTED TEXT :  FullyHomomorphicEncryptionFHEhasbeenreferredtoasaholygrailofcryptographyCraigGentrysrecentsolutiontotheproblemwhilenotefficientenoughtobepracticalwasconsideredtobeamajorbreakthroughSincethenmuchprogresshasbeenmadeinthedirectionoffindingefficientFullyHomomorphicEncryptionschemesInthispaperwewillgiveabriefintroductiontoFHEformathematiciansWewillgivesomeofthehistoryandmajorideaswewillpresentsomeexamplesofFHEschemesandwewillmentionavarietyofsecurityassumptionsonwhichFHEschemeshavebeenbasedTheintendedaudienceismathematiciansatthegraduatelevelorbeyondespeciallynumbertheoristswhodonotnecessarilyhaveanybackgroundincryptographyThepaperismostlyasurveythoughgivesanumbphqgh
+========================================================
+               PERCOBAAN KE-  2
+========================================================
+Jumlah Pop =  69
+99  >>>  [2, 1, 3, 0, 4]  | fitness :  0.967818442367
+kunci :  [2, 1, 3, 0, 4]  | kunci fitness :  0.967818442367
+DECRYPTED TEXT :  FullyHomomorphicEncryptionFHEhasbeenreferredtoasaholygrailofcryptographyCraigGentrysrecentsolutiontotheproblemwhilenotefficientenoughtobepracticalwasconsideredtobeamajorbreakthroughSincethenmuchprogresshasbeenmadeinthedirectionoffindingefficientFullyHomomorphicEncryptionschemesInthispaperwewillgiveabriefintroductiontoFHEformathematiciansWewillgivesomeofthehistoryandmajorideaswewillpresentsomeexamplesofFHEschemesandwewillmentionavarietyofsecurityassumptionsonwhichFHEschemeshavebeenbasedTheintendedaudienceismathematiciansatthegraduatelevelorbeyondespeciallynumbertheoristswhodonotnecessarilyhaveanybackgroundincryptographyThepaperismostlyasurveythoughgivesanumbphqgh
+========================================================
+               PERCOBAAN KE-  3
+========================================================
+Jumlah Pop =  64
+99  >>>  [2, 1, 3, 0, 4]  | fitness :  0.967818442367
+kunci :  [2, 1, 3, 0, 4]  | kunci fitness :  0.967818442367
+DECRYPTED TEXT :  FullyHomomorphicEncryptionFHEhasbeenreferredtoasaholygrailofcryptographyCraigGentrysrecentsolutiontotheproblemwhilenotefficientenoughtobepracticalwasconsideredtobeamajorbreakthroughSincethenmuchprogresshasbeenmadeinthedirectionoffindingefficientFullyHomomorphicEncryptionschemesInthispaperwewillgiveabriefintroductiontoFHEformathematiciansWewillgivesomeofthehistoryandmajorideaswewillpresentsomeexamplesofFHEschemesandwewillmentionavarietyofsecurityassumptionsonwhichFHEschemeshavebeenbasedTheintendedaudienceismathematiciansatthegraduatelevelorbeyondespeciallynumbertheoristswhodonotnecessarilyhaveanybackgroundincryptographyThepaperismostlyasurveythoughgivesanumbphqgh
+========================================================
+               PERCOBAAN KE-  4
+========================================================
+Jumlah Pop =  72
+99  >>>  [2, 1, 3, 0, 4]  | fitness :  0.967818442367
+kunci :  [2, 1, 3, 0, 4]  | kunci fitness :  0.967818442367
+DECRYPTED TEXT :  FullyHomomorphicEncryptionFHEhasbeenreferredtoasaholygrailofcryptographyCraigGentrysrecentsolutiontotheproblemwhilenotefficientenoughtobepracticalwasconsideredtobeamajorbreakthroughSincethenmuchprogresshasbeenmadeinthedirectionoffindingefficientFullyHomomorphicEncryptionschemesInthispaperwewillgiveabriefintroductiontoFHEformathematiciansWewillgivesomeofthehistoryandmajorideaswewillpresentsomeexamplesofFHEschemesandwewillmentionavarietyofsecurityassumptionsonwhichFHEschemeshavebeenbasedTheintendedaudienceismathematiciansatthegraduatelevelorbeyondespeciallynumbertheoristswhodonotnecessarilyhaveanybackgroundincryptographyThepaperismostlyasurveythoughgivesanumbphqgh
+========================================================
+               PERCOBAAN KE-  5
+========================================================
+Jumlah Pop =  67
+99  >>>  [2, 1, 3, 0, 4]  | fitness :  0.967818442367
+kunci :  [2, 1, 3, 0, 4]  | kunci fitness :  0.967818442367
+DECRYPTED TEXT :  FullyHomomorphicEncryptionFHEhasbeenreferredtoasaholygrailofcryptographyCraigGentrysrecentsolutiontotheproblemwhilenotefficientenoughtobepracticalwasconsideredtobeamajorbreakthroughSincethenmuchprogresshasbeenmadeinthedirectionoffindingefficientFullyHomomorphicEncryptionschemesInthispaperwewillgiveabriefintroductiontoFHEformathematiciansWewillgivesomeofthehistoryandmajorideaswewillpresentsomeexamplesofFHEschemesandwewillmentionavarietyofsecurityassumptionsonwhichFHEschemeshavebeenbasedTheintendedaudienceismathematiciansatthegraduatelevelorbeyondespeciallynumbertheoristswhodonotnecessarilyhaveanybackgroundincryptographyThepaperismostlyasurveythoughgivesanumbphqgh
+========================================================
+               PERCOBAAN KE-  6
+========================================================
+Jumlah Pop =  73
+99  >>>  [2, 1, 3, 0, 4]  | fitness :  0.967818442367
+kunci :  [2, 1, 3, 0, 4]  | kunci fitness :  0.967818442367
+DECRYPTED TEXT :  FullyHomomorphicEncryptionFHEhasbeenreferredtoasaholygrailofcryptographyCraigGentrysrecentsolutiontotheproblemwhilenotefficientenoughtobepracticalwasconsideredtobeamajorbreakthroughSincethenmuchprogresshasbeenmadeinthedirectionoffindingefficientFullyHomomorphicEncryptionschemesInthispaperwewillgiveabriefintroductiontoFHEformathematiciansWewillgivesomeofthehistoryandmajorideaswewillpresentsomeexamplesofFHEschemesandwewillmentionavarietyofsecurityassumptionsonwhichFHEschemeshavebeenbasedTheintendedaudienceismathematiciansatthegraduatelevelorbeyondespeciallynumbertheoristswhodonotnecessarilyhaveanybackgroundincryptographyThepaperismostlyasurveythoughgivesanumbphqgh
+========================================================
+               PERCOBAAN KE-  7
+========================================================
+Jumlah Pop =  67
+99  >>>  [2, 1, 3, 0, 4]  | fitness :  0.967818442367
+kunci :  [2, 1, 3, 0, 4]  | kunci fitness :  0.967818442367
+DECRYPTED TEXT :  FullyHomomorphicEncryptionFHEhasbeenreferredtoasaholygrailofcryptographyCraigGentrysrecentsolutiontotheproblemwhilenotefficientenoughtobepracticalwasconsideredtobeamajorbreakthroughSincethenmuchprogresshasbeenmadeinthedirectionoffindingefficientFullyHomomorphicEncryptionschemesInthispaperwewillgiveabriefintroductiontoFHEformathematiciansWewillgivesomeofthehistoryandmajorideaswewillpresentsomeexamplesofFHEschemesandwewillmentionavarietyofsecurityassumptionsonwhichFHEschemeshavebeenbasedTheintendedaudienceismathematiciansatthegraduatelevelorbeyondespeciallynumbertheoristswhodonotnecessarilyhaveanybackgroundincryptographyThepaperismostlyasurveythoughgivesanumbphqgh
+========================================================
+               PERCOBAAN KE-  8
+========================================================
+Jumlah Pop =  63
+99  >>>  [2, 1, 3, 0, 4]  | fitness :  0.967818442367
+kunci :  [2, 1, 3, 0, 4]  | kunci fitness :  0.967818442367
+DECRYPTED TEXT :  FullyHomomorphicEncryptionFHEhasbeenreferredtoasaholygrailofcryptographyCraigGentrysrecentsolutiontotheproblemwhilenotefficientenoughtobepracticalwasconsideredtobeamajorbreakthroughSincethenmuchprogresshasbeenmadeinthedirectionoffindingefficientFullyHomomorphicEncryptionschemesInthispaperwewillgiveabriefintroductiontoFHEformathematiciansWewillgivesomeofthehistoryandmajorideaswewillpresentsomeexamplesofFHEschemesandwewillmentionavarietyofsecurityassumptionsonwhichFHEschemeshavebeenbasedTheintendedaudienceismathematiciansatthegraduatelevelorbeyondespeciallynumbertheoristswhodonotnecessarilyhaveanybackgroundincryptographyThepaperismostlyasurveythoughgivesanumbphqgh
+========================================================
+               PERCOBAAN KE-  9
+========================================================
+Jumlah Pop =  61
+99  >>>  [2, 1, 3, 0, 4]  | fitness :  0.967818442367
+kunci :  [2, 1, 3, 0, 4]  | kunci fitness :  0.967818442367
+DECRYPTED TEXT :  FullyHomomorphicEncryptionFHEhasbeenreferredtoasaholygrailofcryptographyCraigGentrysrecentsolutiontotheproblemwhilenotefficientenoughtobepracticalwasconsideredtobeamajorbreakthroughSincethenmuchprogresshasbeenmadeinthedirectionoffindingefficientFullyHomomorphicEncryptionschemesInthispaperwewillgiveabriefintroductiontoFHEformathematiciansWewillgivesomeofthehistoryandmajorideaswewillpresentsomeexamplesofFHEschemesandwewillmentionavarietyofsecurityassumptionsonwhichFHEschemeshavebeenbasedTheintendedaudienceismathematiciansatthegraduatelevelorbeyondespeciallynumbertheoristswhodonotnecessarilyhaveanybackgroundincryptographyThepaperismostlyasurveythoughgivesanumbphqgh
+========================================================
+               PERCOBAAN KE-  10
+========================================================
+Jumlah Pop =  59
+99  >>>  [2, 1, 3, 0, 4]  | fitness :  0.967818442367
+kunci :  [2, 1, 3, 0, 4]  | kunci fitness :  0.967818442367
+DECRYPTED TEXT :  FullyHomomorphicEncryptionFHEhasbeenreferredtoasaholygrailofcryptographyCraigGentrysrecentsolutiontotheproblemwhilenotefficientenoughtobepracticalwasconsideredtobeamajorbreakthroughSincethenmuchprogresshasbeenmadeinthedirectionoffindingefficientFullyHomomorphicEncryptionschemesInthispaperwewillgiveabriefintroductiontoFHEformathematiciansWewillgivesomeofthehistoryandmajorideaswewillpresentsomeexamplesofFHEschemesandwewillmentionavarietyofsecurityassumptionsonwhichFHEschemeshavebeenbasedTheintendedaudienceismathematiciansatthegraduatelevelorbeyondespeciallynumbertheoristswhodonotnecessarilyhaveanybackgroundincryptographyThepaperismostlyasurveythoughgivesanumbphqgh
+[Finished in 470.5s]

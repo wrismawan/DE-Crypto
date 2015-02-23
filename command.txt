@@ -1,0 +1,6 @@
+./a.out < input.txt > output.
+
+
+pas di run, bandingin fitnes kunci dengan ffitness jawaban
+- kalo yg jawaban lebih kecil maka parameter bigram, trigram di ubah
+- kalo ga ya bener

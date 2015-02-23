@@ -6,10 +6,10 @@
 using namespace std;
 int main() {
     ofstream file_output;
-    file_output.open("data_uji_1.txt");
+    file_output.open("data_uji_4.txt");
 
     int A, B, CC, i;
-    ifstream ifs("data1.txt");
+    ifstream ifs("data4.txt");
     char plain[10000];
     string S;
     char plaintext[10000];
@@ -67,7 +67,7 @@ int main() {
     file_output<<"PANJANG KUNCI : "<<D<<endl;
     file_output<<"KUNCI : ";
     for(int i=0;i<D;i++)
-        cout<<key[i]<<" ";
+        file_output<<key[i]<<" ";
     file_output<<endl;
     file_output<<"CIPHERTEXT : "<<endl;
     for (int i=0; i<C; i++){

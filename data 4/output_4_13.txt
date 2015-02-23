@@ -1,0 +1,71 @@
+========================================================
+               PERCOBAAN KE-  1
+========================================================
+Jumlah Pop =  135
+99  >>>  [12, 6, 7, 1, 11, 10, 9, 5, 3, 4, 2, 8, 0]  | fitness :  1.20366422108
+kunci :  [5, 7, 6, 4, 0, 1, 2, 9, 11, 10, 12, 3, 8]  | kunci fitness :  0.971907348137
+DECRYPTED TEXT :  oyprommolluFHpnnoityrEcihceafernebhEHFssdlohaaoerretcitpyrfoargylrpGgiaCyargohcystneerrtnesoipehttntulooieonelhwlbormnioneteiffetcroitcapethgubnaedisocwlacsmorojaaetderbokShgurhaerbtmtphcuneecnihaeeebshsrgorsheridetndamnifoidnifoitcenefuFtnicfegniooihprmoHyllmircsnotpcnEcyhsapsitnemehIleevigliwrepwteudorniirbafHnrofEFooitctienaictahtammiiosevglweWslitrotshefoemhrmaediojdnayarineseplwewslmeselpaxmosteeEasemhcHFfosmwitnellewdnitasfoyeivanorsipmusayrucethsFhciwnnoitoshevahemcsEHedbiehTesneebaudneidadnetneemitamhtsiecahsargettnaicaeebrolvetaudledlaicpsnoyeetmroehreunylbowntondostsihlsvahyirseceagbnuorkcynaeaorpargtpcnidyeemsirpahTyhprytyevusltsoaehunasviguohgmqlyaeuhhpbmg
+========================================================
+               PERCOBAAN KE-  2
+========================================================
+Jumlah Pop =  185
+99  >>>  [2, 11, 12, 5, 1, 0, 7, 9, 4, 8, 3, 6, 10]  | fitness :  1.15323532267
+kunci :  [5, 7, 6, 4, 0, 1, 2, 9, 11, 10, 12, 3, 8]  | kunci fitness :  0.971907348137
+DECRYPTED TEXT :  uFHpryllomomoihcnonEcitpyrHFsfeahErneebretloderhasaogyltpiaryrcfogohGgpariarCynesstyrtnecerloopeituhtotnormonelbelihwetconiffetneigubitothcarpeacsedawlisnocerbrootdjamaerbtShkaeguorhnihphteccumneorseeergbsahsmniriedadehtncenidoitniffogniuFffetneicllmihoHypromoEcycsrcnnoitpehIapsemsihtnepwevewrigllibafudeirortnitctronoifEHFoammnaehticitaWslosiweeviglemhrotfotsiheayaaemdndirojwslneiweserplsteseemolpmaxfosasEHFemehcdniitwewnemllnorsfavaoyteicetpmiruussayitoFhsnocihwnEHeevhcsahsemebaiebnehTdestnenedneiduadecaitmsiamehticaarsnagehttudlbretaoleveyeeladnoicepsylbromunehtresihntwstonodoceavassehyliraeanubynorgkcidyparcnrgotpyhpmsehTirepasoatyyltevrusohgunhguasevibmglyqhpaemuh
+========================================================
+               PERCOBAAN KE-  3
+========================================================
+Jumlah Pop =  131
+99  >>>  [8, 2, 7, 9, 4, 3, 11, 0, 5, 6, 12, 10, 1]  | fitness :  1.19722207724
+kunci :  [5, 7, 6, 4, 0, 1, 2, 9, 11, 10, 12, 3, 8]  | kunci fitness :  0.971907348137
+DECRYPTED TEXT :  momuFrooHyllptpyihoircnEcnneeHFerbsahEfasareohotderlrcfgypyoliartarCgogiyhparGecenetnrsyrtstotloehnoituplihornewmelbotneetneiciffoarpgutcebothisnoacdicsawleamaerojebotdruorrbhghtkaeSumnnihcehtecpsahorebssergeehtmnidniedariffcednonoitineignFtciffeuromllhpomoHyioitEcsnpyrcncihtehpsnIsemagllepviiwewrertnbadoifeiruEHFtcofotnoircitamaiamehtnvigWsselliweosihemotehtforiroayedjamdnaerpwseslliwenpmastelxeemosmehfosecsEHFaemldntnliwewiytenofoiravasssacemuytirupihwithcnosnoFhseEHvamehcseTdeebehsabneiduatneidednenmehectatamsiiehticrgtasnaalevudroeletabcepyeaisednolhtryloeebmunrnodsitoohwstnyliceahrassevrgkaeuocabynngotidarpyrcnprepyhsiapehTmvrusoyesaylttsevohnaighguuemubmyahgqhpl
+========================================================
+               PERCOBAAN KE-  4
+========================================================
+Jumlah Pop =  176
+99  >>>  [7, 3, 6, 8, 12, 11, 10, 1, 5, 0, 4, 9, 2]  | fitness :  1.0437631387
+kunci :  [5, 7, 6, 4, 0, 1, 2, 9, 11, 10, 12, 3, 8]  | kunci fitness :  0.971907348137
+DECRYPTED TEXT :  omomproHylluFitpynorcnEcihrneefebsahEHFhasalootderreyrcftpoliargyiarCGgyhpargonecestrsyrtnehtotpenoituloelihonwmelboretneoniciffetcarpitebothguisnoedcsawlacjamaroebotderguorShhtkaerbcumnphehtecnibsaheessergordehtriniedamnniffidonoitcetneiuFciffegnpromihomoHyllnoitcspyrcnEcsihtapnIsemehiglleviwewreportnudifeirbafEHFrootnoitcicitnaamehtamevigoslliweWstsihroehtfoemdiroaejamdnayserpnelliwewslpmasexeemostemehascsEHFfonemlitliwewdnoytesfiravanoussapmytirucecihwFhnosnoitahseevmehcsEHhTdeiesabneebiduanedednetnamehittamsiecgehtartasnaicolevbreletaudiceplasednoyeehtrroebmunylonodntohwstsihylivarasseceorgknucabynaergotpapyrcnidirepmsapehTyhevrutysayltsoasevunighguohaemulyhgqhpbm
+========================================================
+               PERCOBAAN KE-  5
+========================================================
+Jumlah Pop =  130
+99  >>>  [10, 8, 9, 11, 0, 5, 4, 6, 2, 3, 1, 12, 7]  | fitness :  1.12678298339
+kunci :  [5, 7, 6, 4, 0, 1, 2, 9, 11, 10, 12, 3, 8]  | kunci fitness :  0.971907348137
+DECRYPTED TEXT :  FprolumomoHylhnoicitpyrcnEFferEHneebsahelohrrasaotdeytpyrgrcfoliaoGgirgarCyhpaestntnecersyropehultotnoitronebolihwmeltonefetneicifuitchgarpebotcedilasnocsawrrojdeamaebotbShgeruorhtkaiphccnumnehtereebgosahssernridamehtniedeidntciffonoinuFtegneicifflihpylromomoHccsnnEoitpyrchapsmeihtnIsepevireglliwewaudorbrtnifeicrofitEHFotnomnaitacitamehsoseeWviglliwmrotoesihehtfyaednairojamdsnesewerplliwtselospmaxeemoaseFfmehcsEHnitnwdemlliweosfoanyteiravepmuucssaytirtFhcoiihwnosnHevasEhsemehcbieheeTdesabnnneietduadedncitaiemehtamscargaiehttasndbroauleveletelaioycepsednlroenyhtrebmuintotsnodohwsevahecylirassenuonargkcabydparnigotpyrchmsiTyrepapehotyetsvrusaylhunauosevighgmlyapbemuhgqh
+========================================================
+               PERCOBAAN KE-  6
+========================================================
+Jumlah Pop =  194
+99  >>>  [10, 3, 9, 11, 6, 5, 7, 4, 1, 8, 0, 12, 2]  | fitness :  1.16769274734
+kunci :  [5, 7, 6, 4, 0, 1, 2, 9, 11, 10, 12, 3, 8]  | kunci fitness :  0.971907348137
+DECRYPTED TEXT :  prommuFlooHylnopytihcircnEfeeenHFErbsahlosaarerhotdetpcfrgyryoliaGgrCagoriyhpastceenetnrsyrpeottlouhnoitonihlorbewmelonnetetfeicifitrpaguhcebotednosaclicsawromaaerdjebotShorurbeghtkaphmnuniccehteeeahsorgbsserrihtemnadniedidfficetnonoiuFeingnetciffihomrllypomoHcsitoEcnnpyrcaphtiehmsnIseevllgepriiwewudtnrbaroifeiroHFEtcifotnonaitcamtiamehosigvWseelliwroihsemotehtfaeroiayndjamdnerpewseslliwsemapstolxeemasehmfoFecsEHitmlednwnliwesfteynoaoiravpmsasceuuytirFhhwiitocnosnevsehEHsamehciedeTebehsabnneuadtneidednitehmeciatamsarhteicagtasnbrevludaoeletlaepcyeoisednrotrhylneebmuntodnsitoohwsvaliyceehrassnugkraenocabypaotgidnrpyrcmsepryhTiapehtyruvsotesaylunevsohuaighglymuebmpahgqh
+========================================================
+               PERCOBAAN KE-  7
+========================================================
+Jumlah Pop =  138
+99  >>>  [7, 4, 5, 6, 2, 12, 1, 11, 9, 10, 8, 0, 3]  | fitness :  1.19766791747
+kunci :  [5, 7, 6, 4, 0, 1, 2, 9, 11, 10, 12, 3, 8]  | kunci fitness :  0.971907348137
+DECRYPTED TEXT :  llFomoyHpromuEchpyrncnoitihEFeebasfernHeresaodtlohararycfoiltpyrgarorCyphGgiagrtecerysstnentuootniopehtllbrihwemonelofftneiiconetethurpeobitcagwlcnocasedisatdrmaeobrojaeaeborhktShgurecimnethphcunrgrahseseebsodanhtneiridemiteffoonidnicfeneicfiuFtngHylomoomihprlcncitprycsnoEemhhtnsIapsiewrplliewevigeiratniefudorboicHFontrofEthtmitaemnaicawesiglilosevWfomihethrotsednyrojmaaediawesrplilnesewmotmaxeeselpsHFoehcEsasemfewnmllwiitnedvaoteiarsfoynruesayitpmuscnothwnsoFhciicsHsemheevahEnebdesbaiehTenenuaddeneidtsicehtmaitamenachttsaargeitadeveelbrolunoeepsdelaicyunltrembroehystiodowhntonsseelirsavahycynegkcbanuoracndotprypargihThepaepmsiryltorusyatyevsguhevihgunasohpmmuhqglyaeb
+========================================================
+               PERCOBAAN KE-  8
+========================================================
+Jumlah Pop =  189
+99  >>>  [3, 1, 2, 4, 12, 11, 7, 10, 6, 8, 5, 9, 0]  | fitness :  1.18135600035
+kunci :  [5, 7, 6, 4, 0, 1, 2, 9, 11, 10, 12, 3, 8]  | kunci fitness :  0.971907348137
+DECRYPTED TEXT :  omoHyprlolmuFpyrcnnociEtiheebsafeErhnHFsaotdlorhearecfolitpryargyrCyhpGgriaagocersysttnreneotnoipeuhttloihwmeonbellorneicionfeftetrpeboithctagunocsaedliwsacmaeborodjtaerorhtkShegaurbmnehtphcceuniahsseeegbrsorhtnieriaddemnffonoidtniiceeicifuFetfngnomomoihypHrllitpyrcsnncoEchtnIsapmseiehlliweevriwgeptnifeudroirbaHFotnroifoEtcitamenatihcamigllioseewvWsihehtrootfsemrojamaenddiayrpllineeswewsmaxeeseolmpstehcsEasFeHmfomlliwitwneednteirasfaovynosaytipmuurscehwnosFhocniitsemehevsachEHdesabieehnTebuadedneeindtnehtamitiasmechttasaragneicevelebraotludepsedlaoincyetrebmroneuhylodohwnttosnsilirasvaehsycegkcabnunoyraeotpyrpanrcgidepapemsTihryhrusaytytelvsoevighunuagsohmuhgqlypahebm
+========================================================
+               PERCOBAAN KE-  9
+========================================================
+Jumlah Pop =  169
+99  >>>  [1, 9, 0, 3, 12, 11, 5, 7, 10, 6, 2, 4, 8]  | fitness :  1.17458477161
+kunci :  [5, 7, 6, 4, 0, 1, 2, 9, 11, 10, 12, 3, 8]  | kunci fitness :  0.971907348137
+DECRYPTED TEXT :  oHpyllomomruFrcnnEcitpyoihbsfahErneeeHFotlderhasaoreoltiaryrcfpgyyhGpariarCggorssyrtnecetnenopituhtotelowmoelbelihnoricoiffetnenetebiothcarptgucseawlisnodacebrotdjamaoerhtSkaeguorhrbehpteccumnhnisseergbsaheorniredadehtimnonioitniffdceciuffetneiFgnomioHypromhllpycrcnnoitsEcnIasemsihtpehiweewrigllvepifueirortndbaotrnoifEHFotcamnehticitaamlloiweevigsWsehrtfotsihoemjaamdndiroeayllniweserpewsxesemolpmaestcsaEHFemehsfoliiwewnemltdnirsavaoytefnoytpiruussamcenoFsnocihwhitmeehcsahsevEHsaibnehTdeeebdendneiduaetntaimsiamehtectaasnagehtricelbetaolevrudseldnoicepayeebrmunehtroylohnwstonodtsiravssehyliacecanbynorgkuaepyprcnrgotaidapmehTirepsyhsatyltevruysoiguhguasevnohhglqhpaemuybm
+========================================================
+               PERCOBAAN KE-  10
+========================================================
+Jumlah Pop =  138
+99  >>>  [5, 0, 4, 6, 12, 9, 8, 10, 2, 3, 1, 7, 11]  | fitness :  1.15081693386
+kunci :  [5, 7, 6, 4, 0, 1, 2, 9, 11, 10, 12, 3, 8]  | kunci fitness :  0.971907348137
+DECRYPTED TEXT :  mprooHyllumoFynoircnEcitpheferbsahEHneFalohotderraseftpyoliargrcyCGgiyhpargaroestnrsyrtnecetpehnoitultoohonewmelbolireoneiciffetntpitcebothgaruoedicsawlasncarojebotdeamrrShghtkaeruobnphcehtecnumiheebssergosartridniedamehnfidnonoitcifeiuFtciffegnenmihpomoHylroltcsnpyrcnEoictapsnIsemeihhleviiwewreglpnudoifeirbrtaFrofotnoitEHctnaiamehtacimgoselliweWvishrotehtfoesimoaedjamdnairypneslliwewersaselxeemospmthasecsEHFfmeolitnliwewdemnesfoiravanytoapmuytirucssewFhcnosnoiihteevamehcsEhsHeiehsabneeTdbaneidednetdunhitatamsiemectargtasnaiehcvbroeletauledplaisednoyceerroeebmunyhtldntoohwstsnoiivahrassecyleknuocabynargetparpyrcnigodpmsiapehTyrehutyesayltsvrovunaighguosehulyahgqhpbemm
+[Finished in 853.1s]
